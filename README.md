@@ -58,8 +58,8 @@ By visualizing the capture and analysis process, this project encourages defensi
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/vaishaldsouza/-Keystroke_Logging_Demo.git
-cd -Keystroke_Logging_Demo
+git clone https://github.com/vaishaldsouza/Keystroke-Awareness-Dashboard.git
+cd Keystroke-Awareness-Dashboard
 ```
 
 **Install dependencies:**
